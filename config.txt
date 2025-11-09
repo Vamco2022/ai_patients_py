@@ -1,0 +1,5 @@
+$API_BASE_URL https://api.deepseek.com
+$API_KEY <your api key>
+$CHAT_MODEL deepseek-chat
+$CHAT_LANGUAGE_ID zh
+$CHAT_LANGUAGE 中文

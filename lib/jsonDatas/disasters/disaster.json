@@ -1,0 +1,18 @@
+{
+  "common_cold" : {
+    "zh_name" : "普通感冒",
+    "en_name" : "common cold"
+  },
+  "influenza_a" : {
+    "zh_name" : "甲型流行性感冒",
+    "en_name" : "influenza A"
+  },
+  "influenza_b" : {
+    "zh_name" : "乙型流行性感冒",
+    "en_name" : "influenza B"
+  },
+  "mycoplasma_pneumonia" : {
+    "zh_name" : "支原体肺炎",
+    "en_name" : "mycoplasma pneumonia"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "CBC" : {
+    "zh_name" : "血常规",
+    "en_name" : "complete blood count",
+    "abbr" : "CBC",
+    "chat_prompt" : [
+      "To take a CBC, please tell me the all indicators",
+      "Please response me as the [indicator name] [indicator value] [tip(↑/-/↓)] [the range of common value to reference]",
+      "Don't generate or response me all the things or sentences that irrelevant to the examinations, including the chatting with me"
+    ]
+  },
+
+  "CBC_2" : {
+    "zh_name" : "血常规 + C反应蛋白",
+    "en_name" : "complete blood count + C-reactive protein",
+    "abbr" : "CBC + CRP",
+    "chat_prompt" : [
+      "To take a CBC + CRP, please tell me the all indicators",
+      "Please response me as the [indicator name] [indicator value] [tip(↑/-/↓)] [the range of common value to reference]",
+      "Don't generate or response me all the things or sentences that irrelevant to the examinations, including the chatting with me"
+    ]
+  },
+
+  "ECG" : {
+    "zh_name" : "常规心电图",
+    "en_name" : "electrocardiogram",
+    "abbr" : "ECG",
+    "chat_prompt" : [
+      "To take a ECG, please tell me the all indicators",
+      "Please response me the result of this examination",
+      "Don't generate or response me all the things or sentences that irrelevant to the examinations, including the chatting with me"
+    ]
+  },
+
+  "nucleic_acid_test_a" : {
+    "zh_name" : "核酸检查 - 甲乙型流感病毒",
+    "en_name" : "the nucleic acid test of influenza virus",
+    "abbr" : "NAT inf",
+    "chat_prompt" : [
+      "To take a a nucleic acid test of influenza virus, please tell me the all indicators",
+      "Please response me the result of this examination",
+      "Don't generate or response me all the things or sentences that irrelevant to the examinations, including the chatting with me"
+    ]
+  }
+}
